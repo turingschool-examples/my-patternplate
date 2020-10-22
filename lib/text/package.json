@@ -1,0 +1,8 @@
+{
+  "name": "text",
+  "version": "1.0.0",
+  "tags": ["text", "paragraph", "copy", "medium"],
+  "patternplate": {
+    "displayName": "Medium Text"
+  }
+}
